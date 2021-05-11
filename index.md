@@ -4,7 +4,7 @@ title: A Correspondence-Free Color Chart Design for Color Calibration
 description: Project Site of LIM Paper "A Correspondence-Free Color Chart Design for Color Calibration"
 author: Hakki Can Karaimer
 ---
-![](./image/overview_algorithm2.pdf)
+![](./image/overview_algorithm2.png)
 
 ### Abstract ###
 Colorimetric calibration computes the necessary color space transformation to map a camera's device-specific color space to a device-independent perceptual color space. Color calibration is most commonly performed by imaging a color rendition chart with a fixed number of color patches with known colorimetric values (e.g., CIE XYZ values). The color space transformation is estimated based on the correspondences between the camera's image and the chart's colors. We present a new approach to colorimetric calibration that does not require explicit color correspondences. Our approach computes a color space transformation by aligning the color distributions of the captured image to the known distribution of a calibration chart containing thousands of colors. We show that a histogram-based colorimetric calibration approach provides results that are on-par with the traditional patch-based method without the need to establish correspondences.
