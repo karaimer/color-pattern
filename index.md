@@ -14,8 +14,7 @@ Colorimetric calibration computes the necessary color space transformation to ma
 
 ## Code, Data, and Supplemental Material##
 
-Please download the code [here](https://karaimer.github.io/color-pattern/) and view the readme file [here](https://karaimer.github.io/color-pattern/),   
-Please download the data [here](https://karaimer.github.io/color-pattern/).   
+Please download the code [here -- coming soon](https://karaimer.github.io/color-pattern/).   
 Please download the supplemental material [[pdf]](./paper/color_pattern_LIM19_supp.pdf)
 
 ## People ##
