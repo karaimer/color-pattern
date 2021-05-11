@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Correspondence-Free Color Chart Design for Color Calibration
+title: A Correspondence-Free Color Chart Design for\ Color Calibration
 description: Project Site of LIM Paper "A Correspondence-Free Color Chart Design for\ Color Calibration"
 author: Hakki Can Karaimer
 ---
