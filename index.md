@@ -12,7 +12,7 @@ Colorimetric calibration computes the necessary color space transformation to ma
 #### Publications: ####
 * Karaimer H.C., Nguyen H.M.R. (2020) "A Correspondence-Free Color Chart Design for Color Calibration", *London Imaging Meeting* (**LIM`20**), September 2020 [[pdf]](./paper/color_pattern_LIM19_CR.pdf) [[bibtex]](./bib/Karaimer_Nguyen_LIM20.bib) 
 
-## Code, Data, and Supplemental Material##
+## Code, Data, and Supplemental Material ##
 
 Please download the code [here -- coming soon](https://karaimer.github.io/color-pattern/).   
 Please download the supplemental material [[pdf]](./paper/color_pattern_LIM19_supp.pdf)
